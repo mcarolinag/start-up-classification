@@ -1,5 +1,4 @@
-# start-up-classification
-Project 3 Proposal: classification of start-up companies
+# Start-up classification:
 
 Business Case:
 There are many start-up companies founded every year. There are a few which valuation increases rapidly, some are acquired by other companies, and decided publicly trade.
